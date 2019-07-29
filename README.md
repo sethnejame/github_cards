@@ -1,3 +1,12 @@
+# GitHub Cards App
+
+This app fetches GitHub API profile data and publishes it live to the view via React JS.  App was coded by Seth NeJame via the following tut:
+
+* Plural Sight
+https://www.pluralsight.com
+
+## Project Details
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
