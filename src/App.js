@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import axios from 'axios';
 
 // API for github info @ "https://api.github.com/users/username"
 
