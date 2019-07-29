@@ -1,6 +1,12 @@
 # GitHub Cards App
 
-This app fetches GitHub API profile data and publishes it live to the view via React JS.  App was coded by Seth NeJame via the following tut:
+This app fetches GitHub API profile data and publishes it live to the view via React JS.
+
+The GitHub Cards App can be viewed via the following link:
+
+
+
+App was coded by Seth NeJame via the following tut:
 
 * Plural Sight
 https://www.pluralsight.com
