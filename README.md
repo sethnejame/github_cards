@@ -1,13 +1,14 @@
 # GitHub Cards App
 
-This app fetches GitHub API profile data and publishes it live to the view via React JS.  App was coded by Seth NeJame via the following Plural Sight tut: Plural Sight (Getting Started w/ React) https://app.pluralsight.com/player?course=react-js-getting-started&author=samer-buna&name=react-js-getting-started-m3&clip=7&mode=live
+This app fetches GitHub API profile data and publishes it live to the view via React JS.  App was coded by Seth NeJame via the following tutorial: 
+
+Plural Sight - Getting Started w/ React by Samer Buna 
+https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
 
 ## The GitHub Cards App is deployed via GH-Pages:
 https://sethnejame.github.io/github_cards/
 1. To add a user, simply enter a valid GH username in the blank field
-2. Select "Add Card" and watch the name magically populate in the pre-populated field below :)
-
-
+2. Select "Add Card" and watch the name magically populate in the pre-populated field below
 
 ## Project Details
 
